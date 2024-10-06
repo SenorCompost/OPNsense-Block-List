@@ -5,3 +5,4 @@
 # BLOCK LIST
 *.tiktok.com
 *.tiktokcdn.com
+*.tiktokcdn-us.com
