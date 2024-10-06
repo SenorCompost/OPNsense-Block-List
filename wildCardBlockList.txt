@@ -1,0 +1,6 @@
+# Last modified: 10-06-2024
+# Syntax: Domains Wildcard
+# Number of entries: 
+#
+# BLOCK LIST
+*.tiktok.com
